@@ -1,0 +1,242 @@
+body {
+	background-color: #EFEFEF;
+}
+@media only screen and (max-width: 600px) {
+  #main {
+  	display: block !important;
+  }
+  #shuffleNSort {
+  	display: block !important;
+  	text-align: center;
+  }
+  #id-0 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-1 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-2 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-3 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-4 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-5 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-6 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-7 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-8 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+  #id-9 {
+	width: 100% !important;
+	background-color: #EFEFEF;
+	box-sizing: unset !important;
+    font-size: 18px !important;
+    color: white;
+    padding: 10px !important;
+    text-align: center;
+    margin-left: 30px;
+  }
+}
+
+#main {
+	display: flex;
+}
+
+#numbers {
+	width: 80%;
+}
+
+#shuffleNSort {
+	flex-grow: 1;
+	display: grid;
+}
+
+#shuffle {
+	margin-top: 30px;
+}
+
+#sort {
+	margin-bottom: 610px;
+}
+
+button {
+	cursor: pointer;
+	height: 40px;
+    width: 140px;
+    border-radius: 10px;
+    color: white;
+    background-color: #2B8EAD;
+}
+
+#id-0 {
+	width: 220px;
+	float: left;
+	background-color: #6F98A8;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-1 {
+	width: 220px;
+	float: left;
+	background-color: #2B8EAD;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-2 {
+	width: 220px;
+	float: left;
+	background-color: #333333;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-3 {
+	width: 220px;
+	float: left;
+	background-color: #2F454E;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-4 {
+	width: 220px;
+	float: left;
+	background-color: #6F98A8;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-5 {
+	width: 220px;
+	float: left;
+	background-color: #72C3DC;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-6 {
+	width: 220px;
+	float: left;
+	background-color: #BFBFBF;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-7 {
+	width: 220px;
+	float: left;
+	background-color: #2F454E;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-8 {
+	width: 220px;
+	float: left;
+	background-color: #2B8EAD;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
+
+#id-9 {
+	width: 220px;
+	float: left;
+	background-color: #333333;
+    box-sizing: border-box;
+    padding: 100px;
+    font-size: 60px;
+    color: white;
+}
